@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://gist.github.com/SuperQuentin/f0c308153f797038476699309df89261.js"></script>" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
 <br>
 
