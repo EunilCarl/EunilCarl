@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **eunilcarl02@gmail.com**
 
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fuk%2Fdiscover%2Ftyping-cat-gifs&psig=AOvVaw0qt-pIiSM4Suq40n5Mcfw6&ust=1674990748819000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjP0faQ6vwCFQAAAAAdAAAAABBE" width="360px"/>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/ChubbySelfreliantGarpike-mobile.mp4" width="360px"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
