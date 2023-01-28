@@ -10,9 +10,7 @@
 
 <br>
 
-<center>
-    <picture> <img align="center" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
-</center>
+
 
 <br>
 	
@@ -20,7 +18,8 @@
 
 
 <br>
-
+	
+<picture> <img alt="poging pusa" align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
