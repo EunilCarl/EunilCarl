@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 <br>
 
 
+<picture> <img align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
+<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
 <br>
 
