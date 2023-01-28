@@ -174,5 +174,5 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)</p>
+
 
