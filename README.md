@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **eunilcarl02@gmail.com**
 
 
-<img align="right" alt="VIDEO" src="https://www.pinterest.ph/pin/205969382944312545/" width="360px"/>
+<img align="right" alt="GIF" src="https://www.pinterest.ph/pin/205969382944312545/" width="360px"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
