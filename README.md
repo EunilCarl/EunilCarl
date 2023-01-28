@@ -74,7 +74,9 @@
 
 </p>
 
+<br>
 
+<p align="center">
  <picture> <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="typing cat" tile="pusang nagtatype lupet"/></script>" width = 250px> </picture>
-
+<p/>
 
