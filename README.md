@@ -5,16 +5,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BAEF7&width=435&lines=A+Self-taught+Front-end+developer;An+upcoming+Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
-
-<br>
-
-<br>
-
-
+<img> https://media.giphy.com/media/1GxcGkXzouxZmmwCAd/giphy.gif </img>
 
 <br>
 	
-## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 40px></picture> </b>  **About me**
+## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 40px></picture> **About me**
 
 
 <br>
