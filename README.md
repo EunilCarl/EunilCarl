@@ -19,7 +19,7 @@
 
 <br>
 	
-<picture> <img alt="poging pusa" align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
+<picture> <img alt="poging pusa" title="poging pusa" align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
