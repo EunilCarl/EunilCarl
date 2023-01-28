@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi 👋, I'm Eunil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi 👋, I'm Eunil </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BAEF7&width=435&lines=A+Self-taught+Front-end+developer;An+upcoming+Computer+Science+Student" alt="Typing SVG" /></a>
@@ -14,7 +14,7 @@
 
 <br>
 	
-## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 40px></picture>   **About me**
+## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 40px></picture> </b>  **About me**
 
 
 <br>
@@ -36,7 +36,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></b><b> Skills</b>
 <br>
 
 <p align="center">
