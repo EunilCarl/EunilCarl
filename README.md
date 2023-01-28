@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BAEF7&width=435&lines=A+Self-taught+Front-end+developer;An+upcoming+Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
-<picture align="center"><img src = "https://media.giphy.com/media/1GxcGkXzouxZmmwCAd/giphy.gif"></picture>
+
 
 <br>
 	
@@ -74,5 +74,7 @@
 
 </p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="typing cat" tile="pusang nagtatype lupet"/>
+</p>
 
