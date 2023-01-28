@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi 👋, I'm Eunil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76124&width=435&lines=A+Self-taught+Front-end+developer;An+upcoming+Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
 
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <br>
 
-- A Self-taught Front-end developer
-- An upcoming Computer Science Student
+- I'm a 17 year old upcoming Computer Science Student and a Self-taught Front-end developer 
+
 
 <br><br>
 
