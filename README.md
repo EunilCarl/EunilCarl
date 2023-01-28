@@ -14,7 +14,7 @@
 
 <br>
 	
-## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 30px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 30px></picture> /n **About me**
 
 
 <br>
