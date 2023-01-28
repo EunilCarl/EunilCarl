@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **eunilcarl02@gmail.com**
 
 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/ChubbySelfreliantGarpike-mobile.mp4" width="360px"/>
+<img align="right" alt="VIDEO" src="https://thumbs.gfycat.com/ChubbySelfreliantGarpike-mobile.mp4" width="360px"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
