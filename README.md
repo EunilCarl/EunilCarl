@@ -30,11 +30,20 @@ Here are some ideas to get you started:
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://gist.github.com/SuperQuentin/f0c308153f797038476699309df89261.js"></script>" width = 250px></picture>
 
 <br>
 
-- I'm a 17 year old upcoming Computer Science Student and a Self-taught Front-end developer 
+
+- 🔭 I’m currently studying on **becoming a software engineer**.
+
+- 🌱 I’m currently learning **Javascript**.
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/EunilCarl)!.
+
+- 📫 How to reach me: **eunilcarl02@gmail.com**.
+
+- 💬 Ask me about **HTML and CSS**.
 
 
 <br><br>
@@ -154,7 +163,6 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
 <br>
@@ -166,5 +174,5 @@ Here are some ideas to get you started:
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<p>Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)</p>
 
