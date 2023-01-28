@@ -9,7 +9,7 @@
 
 <br>
 	
-## <picture><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 40px></picture> **About me**
+## <picture align="center"><img src = "https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width = 40px></picture> **About me**
 
 
 <br>
