@@ -15,8 +15,10 @@
 
 
 <br>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=true)
+
+<p align="right">	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false)
+</p>
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
