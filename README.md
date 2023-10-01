@@ -16,9 +16,9 @@
 
 <br>
 
-<div align="right" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/>
-</div> 
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/>
+
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
