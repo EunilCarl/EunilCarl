@@ -15,10 +15,8 @@
 
 
 <br>
+<picture> <img alt="poging pusa" title="poging pusa" align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
-<image align="right">	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false)
-</image>
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
@@ -77,6 +75,8 @@
 </p>
 
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false)
 
 <p align="center">
  <picture> <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="typing cat" width=250px tile="pusang nagtatype lupet"/> </picture>
