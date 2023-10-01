@@ -48,6 +48,8 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
    
 
 <br>
@@ -77,7 +79,7 @@
 <br>
 
 
- <div style="display: flex; justify-content: center;">
+ <div align="center" dir="auto">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/>
 </div> 
 <p align="center">
