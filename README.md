@@ -79,7 +79,7 @@
 <br>
 
 
- <div align="center" dir="auto">
+ <div align="right" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/>
 </div> 
 <p align="center">
