@@ -15,8 +15,10 @@
 
 
 <br>
-<picture> <img alt="poging pusa" title="poging pusa" align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
 
+<div align="right" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/>
+</div> 
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
@@ -79,9 +81,7 @@
 <br>
 
 
- <div align="right" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/>
-</div> 
+ 
 <p align="center">
  <picture> <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="typing cat" width=250px tile="pusang nagtatype lupet"/> </picture>
 <p/>
