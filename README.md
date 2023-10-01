@@ -16,18 +16,15 @@
 
 <br>
 	
-<picture> <img alt="poging pusa" title="poging pusa" align="right" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"></script>" width = 250px></picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=true)
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **Javascript**.
+- 🌱 I’m currently learning **React**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/EunilCarl)!.
 
 - 📫 How to reach me: **eunilcarl02@gmail.com**.
-
-- 💬 Ask me about **HTML and CSS**.
-
 
 <br><br>
 
