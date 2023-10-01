@@ -76,8 +76,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false)
 
+ <picture align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false"/> </picture>
 <p align="center">
  <picture> <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="typing cat" width=250px tile="pusang nagtatype lupet"/> </picture>
 <p/>
