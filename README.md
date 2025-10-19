@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/7Cr71vflxfGFO/giphy.gif" width="40px"> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&hide_progress=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunilCarl&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 
 - 🔭 I’m currently studying to become a **Software Engineer**.
 - 🌱 I’m currenly learning **React**.
@@ -67,5 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="250px" alt="Typing cat" />
+  <img align="right" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="250px" alt="Typing cat"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EunilCarl&theme=tokyonight&hide_border=true"/>
 </p>
+
